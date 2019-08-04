@@ -1,4 +1,4 @@
-# face_detection_recognisation
+# Attendence by face detection
 done a project work on face detection by using mtcnn and recognising them by using facenet.
 there are two parts of code in which one file contain a way to recognise the faces in the the photo contain only one face in its image and second part is to detect multiple faces in image.
 
